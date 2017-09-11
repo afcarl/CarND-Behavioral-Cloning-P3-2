@@ -68,6 +68,8 @@ However, I added some dropout layers to combat overfitting, as I mentioned.
 12. Fully-connected layer to 10 nodes with dropout layer
 13. Fully-connected layer to 1 nodes with dropout layer
 
+![network architecture](./images/model.py)
+
 #### 3. Creation of the Training Set & Training Process
 
 To capture good driving behavior, I first recorded seven laps on track one using center lane driving. Here is an example image of center lane driving:
