@@ -6,6 +6,7 @@
 * `drive.py`: for driving the car in autonomous mode
 * `model.h5`: containing a trained convolution neural network
 * `writeup.md`: summary of the result
+* `drive-images.mp4`: Recorded video for driving the car in autonomous mode
 
 
 ### Model Architecture and Training Strategy
